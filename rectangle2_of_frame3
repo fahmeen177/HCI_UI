@@ -1,0 +1,8 @@
+/* Rectangle 2 */
+
+position: absolute;
+width: 136px;
+height: 28px;
+left: 42px;
+top: 176px;
+background: #FFC0C0;
