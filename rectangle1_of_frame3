@@ -1,0 +1,8 @@
+/* Rectangle 1 */
+
+position: absolute;
+width: 135px;
+height: 28px;
+left: 43px;
+top: 142px;
+background: #FFCACA;
